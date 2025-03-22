@@ -6,3 +6,5 @@ let value = null // standalone value
 let data // undefined
 
 // symbol ==> unique
+
+console.log(typeof data)
